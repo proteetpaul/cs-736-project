@@ -1,0 +1,6 @@
+[submodule "FlameGraph"]
+	path = FlameGraph
+	url = https://github.com/brendangregg/FlameGraph.git
+[submodule "f2fs-tools"]
+	path = f2fs-tools
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs-tools.git
